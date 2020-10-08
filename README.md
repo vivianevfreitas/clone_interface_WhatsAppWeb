@@ -6,18 +6,12 @@ Este é o repositório com o código fonte do projeto desenvolvido enquanto estu
 
 Projeto desenvolvido acompanhando as aulas disponíveis no YouTube, ministradas por Bonieky Lacerda. Disponíveis no canal: https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ
 
-# Resultado final
-
-![WAW](https://user-images.githubusercontent.com/65543630/94983599-bd691080-051a-11eb-92fe-3cfb41f0d491.PNG)
-
 # Instalação e Execução 
 
 Você precisará ter NodeJS instalado. Para utilizar npm ou yarn para instalar as dependências e iniciar a execução do projeto. 
 
-### Passo a passo
+PASSO 1: executar projeto: npm start
 
-PASSO 1: criar projeto react: npx create-react-app whatsappclone
+# Resultado final
 
-PASSO 2: instalar: npm install @material-ui/core @material-ui/icons
-
-PASSO 3: iniciar projeto: npm start
+![WAW](https://user-images.githubusercontent.com/65543630/94983599-bd691080-051a-11eb-92fe-3cfb41f0d491.PNG)
