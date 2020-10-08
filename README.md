@@ -10,7 +10,9 @@ Projeto desenvolvido acompanhando as aulas disponíveis no YouTube, ministradas 
 
 Você precisará ter NodeJS instalado. Para utilizar npm ou yarn para instalar as dependências e iniciar a execução do projeto. 
 
-PASSO 1: executar projeto: npm start
+PASSO 1: Instalar dependências: npm install
+
+PASSO 2: Executar projeto: npm start
 
 # Resultado final
 
